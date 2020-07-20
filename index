@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+	<title>NSV Hospital</title>
+	<style>
+		body
+{
+	background:url(./imag5.jpg) center center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+	</style>
+<body>
+  
+  <meta http-equiv="refresh" content="60">
+    <marquee behavior="scroll" direction="left"><font size="3" color="green"><font color="white"><h1>Welcome to NSV Hospitals: Intitute For Advanced Healthcare Management</h1></font></marquee>
+    <font size="3" align="centre" color="red"><h1>Equipped With Advanced Machines, Pathological Instruments and Hygiene Management System</h1></font>
+ 
+    
+    <style>
+      .blink {
+      animation: blinker 1s linear infinite;
+      color: #FFC300 ;
+      font-size: 30px;
+      font-weight: bold;
+      font-family: sans-serif;animation-name: 
+      }
+      @keyframes blinker {  
+      50% { opacity: 0; }
+      }
+      
+     
+    </style>
+    
+         <iframe src="http://free.timeanddate.com/clock/i759clhb/n54/szw110/szh110/cf100/hnce1ead6/hcw2/fan3/fas28" frameborder="0" width="110" height="110"></iframe>
+         <centre> <p class="blink">Click Below</p></centre>
+         <font size="3" color="red"><p><h2><a href="registration.html"style="color:black">New Patient Registration</a></h2>
+         <font size="3" color="red"><p><h2><a href="appointment.html"style="color:black">Doctor Appointment</a></h2>	
+        <p><h2><a href="db_login.html"style="color:black"> Hospital Database Login(Only For Staffs)</a></h2> 
+    
+    <font size="3" color="black"><p><strong>Note:</strong>Designed by Team Watchdogs</p></font>
+    </body>
+    
+
+</html>
